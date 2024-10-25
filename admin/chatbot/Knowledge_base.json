@@ -1,0 +1,504 @@
+{
+    "questions": [
+        {
+            "question": "What is AI?",
+            "answer": "AI stands for Artificial Intelligence."
+        },
+        {
+            "question": "What is Python?",
+            "answer": "Python is a programming language."
+        },
+        {
+            "question": "hi",
+            "answer": "Hi! How can I help you today?"
+        },
+        {
+            "question": "how are you",
+            "answer": "I'm just a bot, but I'm here to help you!"
+        },
+        {
+            "question": "What is this website about?",
+            "answer": "This website promotes eco-friendly initiatives and provides information about our games, competitions, and contact details."
+        },
+        {
+            "question": "How can I sign up?",
+            "answer": "You can sign up by clicking the 'Sign Up' button on the home page."
+        },
+        {
+            "question": "What is the EcoLand game?",
+            "answer": "EcoLand is a game where players join missions to restore forests, clean cities, and protect oceans, learning about environmental stewardship."
+        },
+        {
+            "question": "What are the benefits of playing EcoLand?",
+            "answer": "Playing EcoLand helps you learn about environmental conservation while having fun and participating in competitions."
+        },
+        {
+            "question": "How can I participate in competitions?",
+            "answer": "You can participate in competitions by visiting the 'Competition' section and following the instructions."
+        },
+        {
+            "question": "Who can I contact for more information?",
+            "answer": "You can reach out to us through the 'Contact Us' section on the website."
+        },
+        {
+            "question": "What are your main features?",
+            "answer": "Our main features include energy-saving tips, an easy-to-use interface, and engaging environmental games."
+        },
+        {
+            "question": "How can I save energy?",
+            "answer": "You can save energy by optimizing resource use and following the tips provided in the 'Energy Saving' section."
+        },
+        {
+            "question": "What is sustainability?",
+            "answer": "Sustainability refers to meeting our needs without compromising the ability of future generations to meet theirs, through responsible resource use and environmental protection."
+        },
+        {
+            "question": "What is environmental stewardship?",
+            "answer": "Environmental stewardship involves taking responsibility for protecting the environment through conservation and sustainable practices."
+        },
+        {
+            "question": "How can I help the environment?",
+            "answer": "You can help the environment by reducing waste, conserving energy, and participating in eco-friendly activities and initiatives."
+        },
+        {
+            "question": "What is your mission?",
+            "answer": "Our mission is to promote environmental awareness and sustainable practices through engaging content and activities."
+        },
+        {
+            "question": "What are eco-friendly initiatives?",
+            "answer": "Eco-friendly initiatives are actions and projects aimed at reducing environmental impact and promoting sustainability."
+        },
+        {
+            "question": "How do I play the game?",
+            "answer": "You can play the game by visiting the 'Game' section and following the instructions provided."
+        },
+        {
+            "question": "What is the purpose of your website?",
+            "answer": "The purpose of our website is to educate and engage users in environmental conservation through games, competitions, and informative content."
+        },
+        {
+            "question": "What kind of content do you offer?",
+            "answer": "We offer games, competitions, tips on energy saving, and information about environmental sustainability."
+        },
+        {
+            "question": "What is climate change?",
+            "answer": "Climate change refers to long-term changes in temperature, precipitation, and other atmospheric conditions on Earth, largely driven by human activities like burning fossil fuels and deforestation."
+        },
+        {
+            "question": "How can I reduce my carbon footprint?",
+            "answer": "You can reduce your carbon footprint by using public transportation, reducing energy consumption, recycling, and supporting renewable energy sources."
+        },
+        {
+            "question": "What are renewable energy sources?",
+            "answer": "Renewable energy sources are those that are naturally replenished, such as solar, wind, hydro, and geothermal energy."
+        },
+        {
+            "question": "Why is recycling important?",
+            "answer": "Recycling helps reduce the amount of waste in landfills, conserves natural resources, and lowers pollution by reprocessing materials into new products."
+        },
+        {
+            "question": "What can I do to support wildlife conservation?",
+            "answer": "You can support wildlife conservation by donating to wildlife protection organizations, avoiding products that harm habitats, and raising awareness about endangered species."
+        },
+        {
+            "question": "What are the benefits of reducing plastic use?",
+            "answer": "Reducing plastic use helps decrease pollution, conserves resources, and protects wildlife that can be harmed by plastic waste."
+        },
+        {
+            "question": "What is a green initiative?",
+            "answer": "A green initiative is any project or action aimed at improving environmental health and sustainability, such as reducing waste, conserving energy, or promoting green technologies."
+        },
+        {
+            "question": "How can businesses become more sustainable?",
+            "answer": "Businesses can become more sustainable by implementing energy-efficient practices, reducing waste, using sustainable materials, and supporting environmental causes."
+        },
+        {
+            "question": "What is green technology?",
+            "answer": "Green technology refers to innovative products and processes that aim to reduce environmental impact and promote sustainability, such as energy-efficient devices and clean energy systems."
+        },
+        {
+            "question": "How can I get involved in local environmental projects?",
+            "answer": "You can get involved by volunteering with local environmental organizations, participating in community clean-up events, or joining local green initiatives and advocacy groups."
+        },
+        {
+            "question": "What are the effects of deforestation?",
+            "answer": "Deforestation leads to loss of biodiversity, disruption of ecosystems, increased carbon dioxide levels, and contributes to climate change."
+        },
+        {
+            "question": "How does conserving water benefit the environment?",
+            "answer": "Conserving water helps protect natural water sources, reduces energy consumption needed for water treatment, and supports ecosystems that rely on healthy water systems."
+        },
+        {
+            "question": "What is sustainable agriculture?",
+            "answer": "Sustainable agriculture involves farming practices that maintain the health of the land, reduce environmental impact, and support long-term agricultural productivity."
+        },
+        {
+            "question": "How can I create a more eco-friendly home?",
+            "answer": "You can create an eco-friendly home by using energy-efficient appliances, reducing water usage, recycling, composting, and using sustainable materials in home improvements."
+        },
+        {
+            "question": "What are the benefits of supporting local farmers?",
+            "answer": "Supporting local farmers helps reduce the carbon footprint associated with transportation, promotes local economies, and provides access to fresh, seasonal produce."
+        },
+        {
+            "question": "How can I educate others about environmental issues?",
+            "answer": "You can educate others by sharing information on social media, organizing community events, participating in environmental advocacy, and leading by example in your own practices."
+        },
+        {
+            "question": "What role does legislation play in environmental protection?",
+            "answer": "Legislation plays a crucial role by setting regulations and standards that govern environmental practices, protect natural resources, and promote sustainable development."
+        },
+        {
+            "question": "What are eco-friendly products?",
+            "answer": "Eco-friendly products are items designed to minimize environmental impact, such as those made from recycled materials, biodegradable substances, or produced with sustainable practices."
+        },
+        {
+            "question": "What is the impact of overfishing?",
+            "answer": "Overfishing depletes fish populations, disrupts marine ecosystems, and threatens the balance of oceanic food chains, affecting both marine life and human communities dependent on fishing."
+        },
+        {
+            "question": "How can I start a recycling program at my school or workplace?",
+            "answer": "You can start a recycling program by organizing bins for different types of recyclables, educating others about proper recycling practices, and collaborating with local recycling facilities for collection."
+        },
+        {
+            "question": "What is a carbon footprint?",
+            "answer": "A carbon footprint is the total amount of greenhouse gases emitted into the atmosphere as a result of human activities, measured in units of carbon dioxide or equivalent gases."
+        },
+        {
+            "question": "Why is reducing single-use plastics important?",
+            "answer": "Reducing single-use plastics helps cut down on pollution, lowers the amount of plastic waste in landfills and oceans, and decreases harm to wildlife and ecosystems."
+        },
+        {
+            "question": "How can I promote sustainability in my community?",
+            "answer": "You can promote sustainability by advocating for eco-friendly practices, organizing environmental events, supporting green businesses, and encouraging others to adopt sustainable habits."
+        },
+        {
+            "question": "How do I reset my password?",
+            "answer": "To reset your password, go to the login page and click on 'Forgot Password'. Follow the instructions sent to your email to create a new password."
+        },
+        {
+            "question": "Why can't I log in to my account?",
+            "answer": "If you can't log in, make sure you're using the correct username and password. Check if Caps Lock is on and try resetting your password if needed."
+        },
+        {
+            "question": "What should I do if I see an error message?",
+            "answer": "If you see an error message, try restarting the app or website. If the issue persists, take a screenshot of the error message and contact support for help."
+        },
+        {
+            "question": "How can I update my profile picture?",
+            "answer": "To update your profile picture, go to your account settings and look for the option to change your profile picture. Upload a new image and save the changes."
+        },
+        {
+            "question": "How do I contact support if I have a problem?",
+            "answer": "You can contact support by going to the 'Help' or 'Support' section of the website and filling out the contact form. You can also send an email or use the live chat feature if available."
+        },
+        {
+            "question": "What should I do if my game isn't working?",
+            "answer": "If your game isn't working, try restarting your device and checking for updates. If the problem continues, contact support with details about the issue."
+        },
+        {
+            "question": "How can I change my email address?",
+            "answer": "To change your email address, go to your account settings and update your email address. You may need to verify the new email before changes take effect."
+        },
+        {
+            "question": "Why is my account locked?",
+            "answer": "Your account might be locked due to multiple failed login attempts or suspicious activity. Follow the instructions in the email you received to unlock your account."
+        },
+        {
+            "question": "Can I get a refund for a purchase?",
+            "answer": "Refund policies vary. Check the 'Refund Policy' section on our website for details. If you believe you are eligible for a refund, contact support with your purchase details."
+        },
+        {
+            "question": "How do I report a bug in the app?",
+            "answer": "To report a bug, go to the 'Support' section and describe the issue you encountered. Provide any error messages and steps to reproduce the bug to help us resolve it."
+        },
+        {
+            "question": "What do I do if I lose my game progress?",
+            "answer": "If you lose your game progress, check if you have a backup or saved data. If not, contact support with details of your issue, and we’ll assist you in recovering your progress."
+        },
+        {
+            "question": "Can I get help with homework or school projects?",
+            "answer": "While we focus on technical support, we can provide resources or guidance on using our educational tools. For specific homework help, consider contacting a teacher or tutor."
+        },
+        {
+            "question": "How do I enable notifications for the app?",
+            "answer": "To enable notifications, go to your device settings, find the app, and allow notifications. You can also adjust notification settings within the app itself."
+        },
+        {
+            "question": "إزاي أغير الباسورد بتاعي؟",
+            "answer": "عشان تغير الباسورد بتاعك، روح على صفحة تسجيل الدخول واضغط على 'نسيت الباسورد'. اتبع التعليمات اللي هتوصل لك على إيميلك عشان تعمل باسورد جديد."
+        },
+        {
+            "question": "ليه مش قادر أسجل دخول لحسابي؟",
+            "answer": "لو مش قادر تسجل دخول، اتأكد إنك بتستخدم اسم المستخدم والباسورد الصحيحين. اتأكد كمان إن Caps Lock مفعل ولا لأ وحاول تغير الباسورد لو المشكلة مستمرة."
+        },
+        {
+            "question": "أعمل إيه لو شفت رسالة خطأ؟",
+            "answer": "لو شفت رسالة خطأ، حاول تعيد تشغيل التطبيق أو الموقع. لو المشكلة لسه موجودة، خد سكرين شوت للرسالة وابعثها للدعم الفني عشان يساعدوك."
+        },
+        {
+            "question": "إزاي أغير صورة البروفايل بتاعي؟",
+            "answer": "عشان تغير صورة البروفايل، روح على إعدادات الحساب بتاعك وابحث عن خيار تغيير صورة البروفايل. ارفع صورة جديدة واحفظ التغييرات."
+        },
+        {
+            "question": "إزاي أتواصل مع الدعم الفني لو عندي مشكلة؟",
+            "answer": "ممكن تتواصل مع الدعم الفني من خلال الذهاب لقسم 'الدعم' أو 'المساعدة' على الموقع وتعبئة نموذج التواصل. كمان ممكن تبعث إيميل أو تستخدم خاصية الدردشة المباشرة لو موجودة."
+        },
+        {
+            "question": "أعمل إيه لو اللعبة مش شغالة؟",
+            "answer": "لو اللعبة مش شغالة، حاول تعيد تشغيل جهازك وتأكد من وجود أي تحديثات. لو المشكلة مستمرة، اتواصل مع الدعم الفني وقدم تفاصيل عن المشكلة."
+        },
+        {
+            "question": "إزاي أغير الإيميل بتاعي؟",
+            "answer": "عشان تغير الإيميل بتاعك، روح على إعدادات الحساب وحدث الإيميل بتاعك. ممكن تحتاج تأكد الإيميل الجديد قبل ما التغييرات تتنفذ."
+        },
+        {
+            "question": "ليه حسابي مقفول؟",
+            "answer": "ممكن يكون حسابك مقفول بسبب محاولات تسجيل دخول فاشلة متعددة أو نشاط مشبوه. اتبع التعليمات في الإيميل اللي وصل لك عشان تفتح حسابك."
+        },
+        {
+            "question": "ممكن أطلب استرداد فلوس لعملية شراء؟",
+            "answer": "سياسات الاسترداد بتختلف. شوف قسم 'سياسة الاسترداد' على الموقع عشان تعرف التفاصيل. لو شايف إنك تستحق استرداد، تواصل مع الدعم الفني وقدم تفاصيل الشراء."
+        },
+        {
+            "question": "إزاي أبلغ عن خطأ في التطبيق؟",
+            "answer": "عشان تبلغ عن خطأ، روح على قسم 'الدعم' ووضح المشكلة اللي واجهتها. قدم أي رسائل خطأ وخطوات تكرار المشكلة عشان نقدر نحلها."
+        },
+        {
+            "question": "أعمل إيه لو خسرت تقدم اللعبة؟",
+            "answer": "لو خسرت تقدم اللعبة، شوف لو عندك نسخة احتياطية أو بيانات محفوظة. لو لأ، اتواصل مع الدعم الفني وقدم تفاصيل المشكلة عشان نساعدك في استرجاع تقدمك."
+        },
+        {
+            "question": "ممكن أطلب مساعدة في الواجبات أو المشاريع الدراسية؟",
+            "answer": "رغم إننا بنركز على الدعم الفني، ممكن نوفر لك موارد أو إرشادات حول استخدام أدواتنا التعليمية. للمساعدة الخاصة بالواجبات، حاول تتواصل مع مدرس أو معلم."
+        },
+        {
+            "question": "إزاي أفعال الإشعارات للتطبيق؟",
+            "answer": "عشان تفعال الإشعارات، روح على إعدادات جهازك، دور على التطبيق، وفعل الإشعارات. كمان ممكن تعدل إعدادات الإشعارات من داخل التطبيق نفسه."
+        },
+        {
+            "question": "إيه هو الذكاء الاصطناعي؟",
+            "answer": "الذكاء الاصطناعي هو اختصار لـ Artificial Intelligence."
+        },
+        {
+            "question": "إيه هو بايثون؟",
+            "answer": "بايثون هي لغة برمجة."
+        },
+        {
+            "question": "هاي",
+            "answer": "هاي! إزاي أقدر أساعدك النهاردة؟"
+        },
+        {
+            "question": "إزايك؟",
+            "answer": "أنا مجرد بوت، بس هنا عشان أساعدك!"
+        },
+        {
+            "question": "الموقع ده عن إيه؟",
+            "answer": "الموقع ده بيدعم المبادرات البيئية وبيقدم معلومات عن ألعابنا، المسابقات، وتفاصيل الاتصال."
+        },
+        {
+            "question": "إزاي أسجل في الموقع؟",
+            "answer": "ممكن تسجل عن طريق الضغط على زر 'اشترك' في الصفحة الرئيسية."
+        },
+        {
+            "question": "إيه هو لعبة EcoLand؟",
+            "answer": "EcoLand هي لعبة اللاعبين فيها بينضموا لمهام لاستعادة الغابات، تنظيف المدن، وحماية المحيطات، ويتعلموا عن إدارة البيئة."
+        },
+        {
+            "question": "إيه الفوائد من لعب EcoLand؟",
+            "answer": "لعب EcoLand بيساعدك تتعلم عن الحفاظ على البيئة وأنت بتستمتع وتشارك في المسابقات."
+        },
+        {
+            "question": "إزاي أشارك في المسابقات؟",
+            "answer": "ممكن تشارك في المسابقات عن طريق زيارة قسم 'المسابقات' واتباع التعليمات."
+        },
+        {
+            "question": "ممكن أتواصل مع مين لو عندي استفسارات؟",
+            "answer": "ممكن تتواصل معانا من خلال قسم 'اتصل بنا' على الموقع."
+        },
+        {
+            "question": "إيه هي ميزات الموقع الرئيسية؟",
+            "answer": "من ميزات الموقع الرئيسية النصائح لتوفير الطاقة، واجهة سهلة الاستخدام، وألعاب بيئية ممتعة."
+        },
+        {
+            "question": "إزاي أوفر الطاقة؟",
+            "answer": "ممكن توفر الطاقة عن طريق تحسين استخدام الموارد واتباع النصائح المتاحة في قسم 'توفير الطاقة'."
+        },
+        {
+            "question": "إيه هو الاستدامة؟",
+            "answer": "الاستدامة معناها تلبية احتياجاتنا من غير ما نأثر على قدرة الأجيال القادمة لتلبية احتياجاتها من خلال استخدام الموارد بشكل مسؤول وحماية البيئة."
+        },
+        {
+            "question": "إيه هو إدارة البيئة؟",
+            "answer": "إدارة البيئة معناها تحمل المسؤولية عن حماية البيئة من خلال الحفظ والممارسات المستدامة."
+        },
+        {
+            "question": "إزاي أقدر أساعد البيئة؟",
+            "answer": "ممكن تساعد البيئة عن طريق تقليل النفايات، الحفاظ على الطاقة، والمشاركة في الأنشطة والمبادرات البيئية."
+        },
+        {
+            "question": "إيه هي مهمتكم؟",
+            "answer": "مهمتنا هي تعزيز الوعي البيئي والممارسات المستدامة من خلال محتوى وأنشطة ممتعة."
+        },
+        {
+            "question": "إيه هي المبادرات البيئية؟",
+            "answer": "المبادرات البيئية هي الأفعال والمشروعات اللي هدفها تقليل الأثر البيئي وتعزيز الاستدامة."
+        },
+        {
+            "question": "إزاي ألعب اللعبة؟",
+            "answer": "ممكن تلعب اللعبة عن طريق زيارة قسم 'اللعبة' واتباع التعليمات المتاحة."
+        },
+        {
+            "question": "إيه هدف الموقع بتاعكم؟",
+            "answer": "هدف الموقع بتاعنا هو توعية وتفاعل المستخدمين مع الحفاظ على البيئة من خلال الألعاب، المسابقات، والمحتوى التعليمي."
+        },
+        {
+            "question": "إيه نوع المحتوى اللي بتقدموه؟",
+            "answer": "إحنا بنقدم ألعاب، مسابقات، نصائح لتوفير الطاقة، ومعلومات عن الاستدامة البيئية."
+        },
+        {
+            "question": "إيه هو تغير المناخ؟",
+            "answer": "تغير المناخ يعني التغيرات طويلة المدى في درجات الحرارة، الأمطار، وظروف الغلاف الجوي على الأرض، واللي بشكل رئيسي بتكون ناتجة عن الأنشطة البشرية زي حرق الوقود الأحفوري وإزالة الغابات."
+        },
+        {
+            "question": "إزاي أقدر أقلل بصمتي الكربونية؟",
+            "answer": "ممكن تقلل بصمتك الكربونية عن طريق استخدام وسائل النقل العامة، تقليل استهلاك الطاقة، إعادة التدوير، ودعم مصادر الطاقة المتجددة."
+        },
+        {
+            "question": "إيه هي مصادر الطاقة المتجددة؟",
+            "answer": "مصادر الطاقة المتجددة هي اللي بتتجدد بشكل طبيعي، زي الطاقة الشمسية، الرياح، المياه، والطاقة الحرارية الأرضية."
+        },
+        {
+            "question": "ليه إعادة التدوير مهمة؟",
+            "answer": "إعادة التدوير بتساعد في تقليل كمية النفايات في المكبات، تحفظ الموارد الطبيعية، وتقلل التلوث عن طريق إعادة معالجة المواد إلى منتجات جديدة."
+        },
+        {
+            "question": "إيه اللي ممكن أعمله لدعم حماية الحياة البرية؟",
+            "answer": "ممكن تدعم حماية الحياة البرية عن طريق التبرع لمنظمات حماية الحياة البرية، تجنب المنتجات اللي بتضر المواطن البيئي، وزيادة الوعي عن الأنواع المهددة بالانقراض."
+        },
+        {
+            "question": "إيه فوائد تقليل استخدام البلاستيك؟",
+            "answer": "تقليل استخدام البلاستيك بيساعد في تقليل التلوث، حفظ الموارد، وحماية الحياة البرية اللي ممكن تتضرر من النفايات البلاستيكية."
+        },
+        {
+            "question": "إيه هو المبادرة الخضراء؟",
+            "answer": "المبادرة الخضراء هي أي مشروع أو فعل يهدف لتحسين الصحة البيئية والاستدامة، زي تقليل النفايات، حفظ الطاقة، أو دعم التقنيات الخضراء."
+        },
+        {
+            "question": "إزاي الشركات ممكن تصبح أكثر استدامة؟",
+            "answer": "الشركات ممكن تصبح أكثر استدامة عن طريق تنفيذ ممارسات توفير الطاقة، تقليل النفايات، استخدام مواد مستدامة، ودعم القضايا البيئية."
+        },
+        {
+            "question": "إيه هو التكنولوجيا الخضراء؟",
+            "answer": "التكنولوجيا الخضراء تشير إلى المنتجات والعمليات المبتكرة اللي هدفها تقليل الأثر البيئي وتعزيز الاستدامة، زي الأجهزة الموفرة للطاقة وأنظمة الطاقة النظيفة."
+        },
+        {
+            "question": "إزاي أقدر أشارك في المشاريع البيئية المحلية؟",
+            "answer": "ممكن تشارك عن طريق التطوع مع منظمات بيئية محلية، المشاركة في فعاليات تنظيف المجتمع، أو الانضمام للمبادرات الخضراء المحلية ومجموعات الدعوة."
+        },
+        {
+            "question": "إيه تأثير إزالة الغابات؟",
+            "answer": "إزالة الغابات بتؤدي إلى فقدان التنوع البيولوجي، تعطل الأنظمة البيئية، زيادة مستويات ثاني أكسيد الكربون، وتساهم في تغير المناخ."
+        },
+        {
+            "question": "إزاي الحفاظ على الماء بيفيد البيئة؟",
+            "answer": "الحفاظ على الماء بيساعد في حماية مصادر المياه الطبيعية، تقليل استهلاك الطاقة اللازم لمعالجة المياه، ويدعم الأنظمة البيئية اللي تعتمد على أنظمة مائية صحية."
+        },
+        {
+            "question": "إيه هو الزراعة المستدامة؟",
+            "answer": "الزراعة المستدامة تشمل ممارسات زراعية تحافظ على صحة الأرض، تقلل الأثر البيئي، وتدعم الإنتاج الزراعي على المدى الطويل."
+        },
+        {
+            "question": "إزاي أقدر أعمل منزل صديق للبيئة؟",
+            "answer": "ممكن تعمل منزل صديق للبيئة عن طريق استخدام الأجهزة الموفرة للطاقة، تقليل استخدام المياه، إعادة التدوير، التسميد، واستخدام مواد مستدامة في تحسينات المنزل."
+        },
+        {
+            "question": "إيه فوائد دعم المزارعين المحليين؟",
+            "answer": "دعم المزارعين المحليين بيساعد في تقليل بصمة الكربون المرتبطة بالنقل، يعزز الاقتصاد المحلي، ويوفر وصول لمنتجات طازجة وموسمية."
+        },
+        {
+            "question": "إزاي أقدر أعلم الآخرين عن القضايا البيئية؟",
+            "answer": "ممكن تعلم الآخرين عن طريق مشاركة المعلومات على وسائل التواصل الاجتماعي، تنظيم فعاليات مجتمعية، المشاركة في الدفاع عن البيئة، والقدوة في ممارساتك الشخصية."
+        },
+        {
+            "question": "إيه دور التشريعات في حماية البيئة؟",
+            "answer": "التشريعات بتلعب دور مهم من خلال تحديد القوانين والمعايير التي تحكم الممارسات البيئية، تحمي الموارد الطبيعية، وتعزز التنمية المستدامة."
+        },
+        {
+            "question": "إيه هي المنتجات الصديقة للبيئة؟",
+            "answer": "المنتجات الصديقة للبيئة هي المواد المصممة لتقليل الأثر البيئي، زي المنتجات المصنوعة من مواد معاد تدويرها، المواد القابلة للتحلل، أو المنتجات المنتجة بممارسات مستدامة."
+        },
+        {
+            "question": "إيه تأثير الصيد الجائر؟",
+            "answer": "الصيد الجائر بيؤدي إلى استنزاف تجمعات الأسماك، يعطل الأنظمة البيئية البحرية، ويهدد توازن سلاسل الغذاء البحرية، مما يؤثر على الحياة البحرية والمجتمعات البشرية المعتمدة على الصيد."
+        },
+        {
+            "question": "إزاي أبدأ برنامج إعادة تدوير في مدرستي أو في مكان عملي؟",
+            "answer": "ممكن تبدأ برنامج إعادة تدوير عن طريق تنظيم صناديق لأنواع مختلفة من المواد القابلة لإعادة التدوير، تعليم الآخرين عن ممارسات إعادة التدوير الصحيحة، والتعاون مع مرافق إعادة التدوير المحلية لجمع المواد."
+        },
+        {
+            "question": "إيه هو البصمة الكربونية؟",
+            "answer": "البصمة الكربونية هي إجمالي كمية الغازات الدفيئة المنبعثة في الغلاف الجوي نتيجة الأنشطة البشرية، تقاس بوحدات ثاني أكسيد الكربون أو الغازات المكافئة."
+        },
+        {
+            "question": "ليه تقليل البلاستيك أحادي الاستخدام مهم؟",
+            "answer": "تقليل البلاستيك أحادي الاستخدام بيساعد في تقليل التلوث، يقلل كمية النفايات البلاستيكية في المكبات والمحيطات، ويقلل الأضرار على الحياة البرية والأنظمة البيئية."
+        },
+        {
+            "question": "إزاي أروج للاستدامة في مجتمعي؟",
+            "answer": "ممكن تروج للاستدامة عن طريق الدعوة للممارسات الصديقة للبيئة، تنظيم الفعاليات البيئية، دعم الشركات الخضراء، وتشجيع الآخرين على تبني عادات مستدامة."
+        },
+        {
+            "question": "إزاي أعمل إعادة تعيين لكلمة السر؟",
+            "answer": "عشان تعيد تعيين كلمة السر، روح لصفحة تسجيل الدخول واضغط على 'نسيت كلمة السر'. اتبع التعليمات اللي هتوصلك على الإيميل عشان تخلق كلمة سر جديدة."
+        },
+        {
+            "question": "ليه مش قادر أسجل دخول لحسابي؟",
+            "answer": "لو مش قادر تسجل دخول، اتأكد إنك بتستخدم اسم المستخدم وكلمة السر الصحيحة. اتأكد كمان إن Caps Lock مفعلة ولا لأ وحاول تعيد تعيين كلمة السر لو المشكلة مستمرة."
+        },
+        {
+            "question": "أعمل إيه لو شفت رسالة خطأ؟",
+            "answer": "لو شفت رسالة خطأ، حاول تعيد تشغيل التطبيق أو الموقع. لو المشكلة لسه موجودة، خد سكرين شوت للرسالة وابعثها للدعم الفني عشان نساعدك."
+        },
+        {
+            "question": "إزاي أغير صورة البروفايل بتاعي؟",
+            "answer": "عشان تغير صورة البروفايل، روح على إعدادات الحساب بتاعك وابحث عن خيار تغيير صورة البروفايل. ارفع صورة جديدة واحفظ التغييرات."
+        },
+        {
+            "question": "إزاي أتواصل مع الدعم الفني لو عندي مشكلة؟",
+            "answer": "ممكن تتواصل مع الدعم الفني من خلال الذهاب لقسم 'الدعم' أو 'المساعدة' على الموقع وتعبئة نموذج التواصل. كمان ممكن تبعث إيميل أو تستخدم خاصية الدردشة المباشرة لو موجودة."
+        },
+        {
+            "question": "أعمل إيه لو اللعبة مش شغالة؟",
+            "answer": "لو اللعبة مش شغالة، حاول تعيد تشغيل جهازك وتأكد من وجود أي تحديثات. لو المشكلة مستمرة، اتواصل مع الدعم الفني وقدم تفاصيل عن المشكلة."
+        },
+        {
+            "question": "إزاي أغير الإيميل بتاعي؟",
+            "answer": "عشان تغير الإيميل بتاعك، روح على إعدادات الحساب وحدث الإيميل بتاعك. ممكن تحتاج تأكد الإيميل الجديد قبل ما التغييرات تتنفذ."
+        },
+        {
+            "question": "ليه حسابي مقفول؟",
+            "answer": "ممكن يكون حسابك مقفول بسبب محاولات تسجيل دخول فاشلة متعددة أو نشاط مشبوه. اتبع التعليمات في الإيميل اللي وصل لك عشان تفتح حسابك."
+        },
+        {
+            "question": "ممكن أطلب استرداد فلوس لعملية شراء؟",
+            "answer": "سياسات الاسترداد بتختلف. شوف قسم 'سياسة الاسترداد' على الموقع عشان تعرف التفاصيل. لو شايف إنك تستحق استرداد، تواصل مع الدعم الفني وقدم تفاصيل الشراء."
+        },
+        {
+            "question": "إزاي أبلغ عن خطأ في التطبيق؟",
+            "answer": "عشان تبلغ عن خطأ، روح على قسم 'الدعم' ووضح المشكلة اللي واجهتها. قدم أي رسائل خطأ وخطوات تكرار المشكلة عشان نقدر نحلها."
+        },
+        {
+            "question": "أعمل إيه لو خسرت تقدم اللعبة؟",
+            "answer": "لو خسرت تقدم اللعبة، شوف لو عندك نسخة احتياطية أو بيانات محفوظة. لو لأ، اتواصل مع الدعم الفني وقدم تفاصيل المشكلة عشان نساعدك في استرجاع تقدمك."
+        },
+        {
+            "question": "ممكن أطلب مساعدة في الواجبات أو المشاريع الدراسية؟",
+            "answer": "رغم إننا بنركز على الدعم الفني، ممكن نوفر لك موارد أو إرشادات حول استخدام أدواتنا التعليمية. للمساعدة الخاصة بالواجبات، حاول تتواصل مع مدرس أو معلم."
+        },
+        {
+            "question": "إزاي أفعال الإشعارات للتطبيق؟",
+            "answer": "عشان تفعال الإشعارات، روح على إعدادات جهازك، دور على التطبيق، وفعل الإشعارات. كمان ممكن تعدل إعدادات الإشعارات من داخل التطبيق نفسه."
+        }
+    ]
+}
